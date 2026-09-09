@@ -1,1 +1,15 @@
-{}
+{
+  "generatedAt": "2026-09-09T17:39:21Z",
+  "products": [
+    {
+      "channels": [
+        "beta",
+        "stable"
+      ],
+      "id": "jinshouzhi",
+      "manifestPath": "products/jinshouzhi/{channel}.json",
+      "name": "手指助手"
+    }
+  ],
+  "schemaVersion": 2
+}
