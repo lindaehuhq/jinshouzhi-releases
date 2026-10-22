@@ -2,40 +2,40 @@
   "schemaVersion": 2,
   "productId": "jinshouzhi",
   "channel": "stable",
-  "revision": 8,
-  "generatedAt": "2026-10-22T06:05:03Z",
+  "revision": 9,
+  "generatedAt": "2026-10-22T17:43:37Z",
   "enabled": true,
   "latestVersion": "1.4.0",
-  "build": 1,
+  "build": 2,
   "minimumVersion": "",
   "blockedVersions": [],
   "allowDowngrade": false,
-  "force": false,
+  "force": true,
   "forceAfter": "",
   "rolloutPercent": 100,
   "rolloutSalt": "1.4.0",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-10-22T05:46:56Z",
+  "publishedAt": "2026-10-22T17:43:30Z",
   "title": "新增统计中心、列表搜索与做单Key",
   "notes": "1. 新增统计中心：管理页「统计信息」旁点「统计中心」，查看运行中、在线、掉线、未登录等数量和近 7 天每天新上号，点卡片或日期可筛选列表\n2. 统计中心可导出当前列表：端口、登录状态、登录用户、备注、第一次上号时间，Excel、WPS 直接打开\n3. 新增列表搜索：按端口（比特模式为序号）、备注、登录用户搜索，可和左侧筛选一起用\n4. 新增做单Key：平台设置里选「做单Key」，粘贴做单Key 就能领任务，不用再填账号密码\n5. 备注可双击直接修改：回车或点别处保存，运行中也能改",
-  "releasePageUrl": "https://github.com/lindaehuhq/jinshouzhi-releases/releases/tag/v1.4.0",
+  "releasePageUrl": "https://github.com/lindaehuhq/jinshouzhi-releases/releases/tag/v1.4.0-b2",
   "assets": {
     "windows-amd64": {
       "fileName": "jinshouzhi-1.4.0-windows-amd64.exe",
-      "size": 7733794,
-      "sha256": "6b77a50fb59b136931a13780b9959512fa36652096f892f657cd1cc73c2d8964",
+      "size": 7735842,
+      "sha256": "bb6ac110d41aa51ecd490dec2b6fcd9130dcbde5baa7dd4a74afe6b11edb22cd",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0/jinshouzhi-1.4.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0/jinshouzhi-1.4.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0/jinshouzhi-1.4.0-windows-amd64.exe",
-        "https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0/jinshouzhi-1.4.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0-b2/jinshouzhi-1.4.0-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0-b2/jinshouzhi-1.4.0-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0-b2/jinshouzhi-1.4.0-windows-amd64.exe",
+        "https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.4.0-b2/jinshouzhi-1.4.0-windows-amd64.exe"
       ]
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "db82d358b08e",
-    "message": "新版本已发布：新增统计中心、列表搜索和做单Key。更新前请先停止所有浏览器。",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
