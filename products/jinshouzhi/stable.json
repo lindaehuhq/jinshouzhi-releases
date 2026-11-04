@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "productId": "jinshouzhi",
   "channel": "stable",
-  "revision": 12,
-  "generatedAt": "2026-11-03T19:43:04Z",
+  "revision": 13,
+  "generatedAt": "2026-11-04T02:58:55Z",
   "enabled": true,
-  "latestVersion": "1.5.0",
+  "latestVersion": "1.5.1",
   "build": 1,
   "minimumVersion": "",
   "blockedVersions": [],
@@ -13,22 +13,22 @@
   "force": true,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.5.0",
+  "rolloutSalt": "1.5.1",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-03T19:42:39Z",
+  "publishedAt": "2026-11-04T02:58:26Z",
   "title": "修复比特浏览器批量启动失败",
   "notes": "1. 修复比特浏览器同时启动多个窗口时提示「浏览器启动失败」\n2. 优化部分报错提示\n3. 修复检查账号信息api失效导致的其他bug",
-  "releasePageUrl": "https://github.com/lindaehuhq/jinshouzhi-releases/releases/tag/v1.5.0",
+  "releasePageUrl": "https://github.com/lindaehuhq/jinshouzhi-releases/releases/tag/v1.5.1",
   "assets": {
     "windows-amd64": {
-      "fileName": "jinshouzhi-1.5.0-windows-amd64.exe",
-      "size": 7736354,
-      "sha256": "472b20cd2d0801caa8ba05a4c51ef97bd6380691e4e9ba4a9438bea2c0588fe9",
+      "fileName": "jinshouzhi-1.5.1-windows-amd64.exe",
+      "size": 7737378,
+      "sha256": "0dd5f828880ec55a6bf4793613eb055189f09e0923ee2b3f9ef29c2782faebb7",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.0/jinshouzhi-1.5.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.0/jinshouzhi-1.5.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.0/jinshouzhi-1.5.0-windows-amd64.exe",
-        "https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.0/jinshouzhi-1.5.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.1/jinshouzhi-1.5.1-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.1/jinshouzhi-1.5.1-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.1/jinshouzhi-1.5.1-windows-amd64.exe",
+        "https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.1/jinshouzhi-1.5.1-windows-amd64.exe"
       ]
     }
   },
