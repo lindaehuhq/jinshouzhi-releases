@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "productId": "jinshouzhi",
   "channel": "stable",
-  "revision": 14,
-  "generatedAt": "2026-11-15T17:35:23Z",
+  "revision": 15,
+  "generatedAt": "2026-11-15T17:36:06Z",
   "enabled": true,
   "latestVersion": "1.5.2",
   "build": 1,
@@ -33,9 +33,9 @@
     }
   },
   "announcement": {
-    "enabled": false,
-    "id": "",
-    "message": "",
+    "enabled": true,
+    "id": "491fea71c598",
+    "message": "1.5.2 已发布，已适配金手指平台新接口，请及时更新。",
     "startsAt": "",
     "endsAt": ""
   }
