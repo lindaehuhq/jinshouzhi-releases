@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "productId": "jinshouzhi",
   "channel": "stable",
-  "revision": 15,
-  "generatedAt": "2026-11-15T17:36:06Z",
+  "revision": 16,
+  "generatedAt": "2026-11-16T11:46:25Z",
   "enabled": true,
-  "latestVersion": "1.5.2",
+  "latestVersion": "1.5.3",
   "build": 1,
   "minimumVersion": "",
   "blockedVersions": [],
@@ -13,29 +13,29 @@
   "force": false,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.5.2",
+  "rolloutSalt": "1.5.3",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-15T17:35:17Z",
-  "title": "适配金手指新接口",
-  "notes": "1. 适配金手指平台新接口\n2. 修复已知问题",
-  "releasePageUrl": "https://github.com/lindaehuhq/jinshouzhi-releases/releases/tag/v1.5.2",
+  "publishedAt": "2026-11-16T11:45:56Z",
+  "title": "修复已知问题",
+  "notes": "1. 修复已知问题",
+  "releasePageUrl": "https://github.com/lindaehuhq/jinshouzhi-releases/releases/tag/v1.5.3",
   "assets": {
     "windows-amd64": {
-      "fileName": "jinshouzhi-1.5.2-windows-amd64.exe",
+      "fileName": "jinshouzhi-1.5.3-windows-amd64.exe",
       "size": 7751714,
-      "sha256": "085e01ced511acff3da9f72fa858d78fec68b4ece0c60c18721be0326f9aeab5",
+      "sha256": "d585690cf5a08bf47138bd2d98264d2cb064e5c7ae8b5dd9e3073bf01dea354a",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.2/jinshouzhi-1.5.2-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.2/jinshouzhi-1.5.2-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.2/jinshouzhi-1.5.2-windows-amd64.exe",
-        "https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.2/jinshouzhi-1.5.2-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.3/jinshouzhi-1.5.3-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.3/jinshouzhi-1.5.3-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.3/jinshouzhi-1.5.3-windows-amd64.exe",
+        "https://github.com/lindaehuhq/jinshouzhi-releases/releases/download/v1.5.3/jinshouzhi-1.5.3-windows-amd64.exe"
       ]
     }
   },
   "announcement": {
-    "enabled": true,
-    "id": "491fea71c598",
-    "message": "1.5.2 已发布，已适配金手指平台新接口，请及时更新。",
+    "enabled": false,
+    "id": "",
+    "message": "",
     "startsAt": "",
     "endsAt": ""
   }
